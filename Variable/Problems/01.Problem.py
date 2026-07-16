@@ -1,0 +1,2 @@
+name="kavi"
+print("kavi")
